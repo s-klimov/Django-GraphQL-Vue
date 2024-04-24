@@ -1,4 +1,5 @@
 # Blog Using Django, GraphQL, and Vue
+Учебный проект по статье на Realpython [Build a Blog Using Django, GraphQL, and Vue](https://realpython.com/python-django-blog/).
 
 ## Настроить среду разработки
 
@@ -18,10 +19,18 @@ DATABASE_URL = postgresql://developer:secret@localhost:5440/blog
 SECRET_KEY = "django-insecure-&r7sbqng#dfgd(k@mml_dqd%omgqvjh2+0m0-o0jijpnr_)hqt"
 ```
 
-### Создание и активация виртуального окружения, установка зависимостей
+### Бэкенд
+#### Создание и активация виртуального окружения, установка зависимостей
 ```shell
 cd back_end
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements/develop.txt  
+```
+
+### Фронтенд
+#### Установка зависимостей
+```shell
+cd front_end
+npm install  
 ```
