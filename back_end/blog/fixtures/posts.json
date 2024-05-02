@@ -1,0 +1,21 @@
+[
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "title": "I started to learn English",
+        "subtitle": "still better",
+        "slug": "i-started-to-learn-english-still-better",
+        "body": "I started to learn English by app",
+        "meta_description": "",
+        "date_created": "2024-04-22T05:38:37.337Z",
+        "date_modified": "2024-04-22T05:38:37.337Z",
+        "publish_date": "2024-04-22T05:38:29Z",
+        "published": true,
+        "author": 1,
+        "tags": [
+            1
+        ]
+    }
+}
+]
