@@ -1,0 +1,11 @@
+[
+{
+    "model": "blog.profile",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "website": "http://www.my-site.ru",
+        "bio": "male"
+    }
+}
+]

@@ -27,10 +27,3 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements/develop.txt  
 ```
-
-### Фронтенд
-#### Установка зависимостей
-```shell
-cd front_end
-npm install  
-```
